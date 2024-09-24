@@ -12,3 +12,4 @@ int main() {
     printf("Binomial Coefficient C(%d, %d) = %d\n", n, k, C[n][k]);
     return 0;
 }
+}
